@@ -12,7 +12,9 @@ Teach **BLOCKCHAIN DEVELOPMENT** to newbie
  <br>
  Connect me at here
  <br>
-<span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a> </span>
+
+ <br>
+<span><a href="https://www.linkedin.com/in/amna-riaz-888a14209/" ><img src="images/linkedin.png" width="30" height="30" /></a> </span>
 &nbsp;
 <br>
  
