@@ -1,7 +1,6 @@
 ### Hi Devs 👋
 <h1 align="center">I am Amna Riaz </h1>
 <p align="center"> <b><i> Never stop learning because life never stop teaching </i><b> </p>
-<br>
 Blockchain Engineer
  <br>
 I’m currently working on BLOCKCHAIN, ETHEREUM - SOLIDITY and React - Node.Js
@@ -10,7 +9,7 @@ I’m currently learning BLOCKCHAIN DAPP DECENTRALIZATION
  <br>
 Teach **BLOCKCHAIN DEVELOPMENT** to newbie
  <br>
- 
+ <br>
  Connect me at here
  <br>
 <span><a href="https://www.linkedin.com/in/zaryab-programmer/" ><img src="images/linkedin.png" width="30" height="30" /></a> </span>
