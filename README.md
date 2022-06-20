@@ -7,7 +7,7 @@ I’m currently working on BLOCKCHAIN, ETHEREUM - SOLIDITY and React - Node.Js
  <br>
 I’m currently learning BLOCKCHAIN DAPP DECENTRALIZATION
  <br>
-Teach **BLOCKCHAIN DEVELOPMENT** to newbie
+Working On **BLOCKCHAIN DEVELOPMENT**
  <br>
  <br>
  Connect me at here
