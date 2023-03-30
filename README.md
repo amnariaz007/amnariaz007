@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amna-riaz-🦋-888a14209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amna-riaz-🦋-888a14209/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/amnaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amnaaa" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/amna riaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amna riaz" height="30" width="40" /></a>
+<a href="https://ethereum.stackexchange.com/users/112109/amnaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amnaaa" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/amanamana606" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amna riaz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
