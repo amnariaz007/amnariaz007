@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cardano, Haskell, Plutus and Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AmnaInvoblox](https://github.com/AmnaInvoblox)
+- 👨‍💻 All of my projects are available at [https://github.com/AmnaRiaz](https://github.com/AmnaRiaz)
 
 - 💬 Ask me about **EVM based Blockchains**
 
