@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Cryptogenic</h1>
+<h1 align="center">Hi 👋, This is Amna Riaz</h1>
 <h3 align="center">A passionate Blockchain Developer, Building decentralised solutions for the future.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnariaz&label=Profile%20views&color=0e75b6&style=flat" alt="amnariaz" /> </p>
