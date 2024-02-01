@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cardano, Haskell, Plutus and Nodejs**
 
-- 👨‍💻 All of my projects are available at https://github.com/Cryptogenicc
+- 👨‍💻 All of my projects are available at https://github.com/amnariaz007
 
 - 💬 Ask me about **EVM based Blockchains**
 
